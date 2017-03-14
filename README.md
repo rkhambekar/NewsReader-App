@@ -1,1 +1,1 @@
-# NewsReader-App
+# NewsReader-App using Ionic Cordova
